@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extentreports>
     <configuration>
-        <!-- com.peoplentech.okaywhat.com.peoplentech.thursdaymentoring.report theme -->
+        <!-- com.peoplentech.thursdaymentoring.report theme -->
         <!-- standard, dark -->
         <theme>dark</theme>
 
@@ -16,7 +16,7 @@
         <!-- title of the document -->
         <documentTitle>Test Automation Report</documentTitle>
 
-        <!-- com.peoplentech.okaywhat.com.peoplentech.thursdaymentoring.report name - displayed at top-nav -->
+        <!-- com.peoplentech.thursdaymentoring.report name - displayed at top-nav -->
         <reportName>Automation Report</reportName>
 
         <!-- location of charts in the test view -->
